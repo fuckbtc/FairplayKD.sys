@@ -172,10 +172,9 @@ struct ProcessTableEntry {   // 16 bytes total
 | **GTA:SA** | **6** | `gta_sa.exe`, `proxy_sa.exe` | Launcher/system process — **target** |
 | RaidCall | 7 | `raidcall.exe` | VoIP app (monitored) |
 | Logitech | 8 | `LVPrcSrv.exe`, `LWEMon.exe` | Gaming peripheral processes |
-| Action! | 9 | `Action_x64.bin`, `Action_x86.bin` | Screen recording — **cheating tool** |
+| Action! | 9 | `Action_x64.bin`, `Action_x86.bin` | Screen recording  |
 
 > Types 1–4 are system processes. Types 5 and 6 are the two halves of the MTA game stack.  
-> Type 9 (Action!) is flagged as a cheat tool (screen capture for aimbot input).
 
 ### Classification Flow
 
